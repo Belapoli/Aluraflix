@@ -1,0 +1,25 @@
+body {
+    color: white;
+    background: pink;
+    margin: 0px;
+    font-family: "DM Serif Text", serif;
+}
+
+header {
+    border: solid 2px deeppink;
+    padding: 20px;
+    font-size: 32px;
+    color: deeppink;
+}
+
+section {
+    background: rgb(230,117,183);
+    display: flex; 
+    padding-bottom: 80px;
+    padding-top: 80;
+}
+
+h1{
+    font-size: 30px;
+
+}
